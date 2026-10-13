@@ -10,6 +10,7 @@ coverage.*
 
 # TypeScript build output and deps
 web/dist/
+coverage.out
 web/node_modules/
 *.tsbuildinfo
 
